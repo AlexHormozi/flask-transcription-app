@@ -1,1 +1,6 @@
+Flask
+torch
+faster-whisper
+numpy
+gunicorn
 
